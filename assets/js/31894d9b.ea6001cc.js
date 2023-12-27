@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkapache_fury=self.webpackChunkapache_fury||[]).push([[2688],{4537:a=>{a.exports=JSON.parse('{"label":"fury","permalink":"/incubator-fury-site/blog/tags/fury","allTagsPath":"/incubator-fury-site/blog/tags","count":10,"unlisted":false}')}}]);
